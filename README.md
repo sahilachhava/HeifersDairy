@@ -7,4 +7,4 @@ for Heifers Dairy Pvt Ltd <br /><br />
 
 **Screenshots**
 
-![alt text](https://github.com/sahilachhava/HeifersDairy/blob/main/screenshots/Home.jpg?raw=true)
+![alt text](https://github.com/sahilachhava/HeifersDairy/main/screenshots/Home.jpg?raw=true)
